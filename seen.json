@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
-    "seen_at": "2026-07-02T00:06:48.618584+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://twitter.com/claudeai/status/2072402636813607381",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://www.weaverobotics.com/isaac-1",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures/",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
-    "link": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-    "seen_at": "2026-07-02T00:18:15.306583+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "seen_at": "2026-07-02T15:57:50.191919+00:00"
   },
@@ -318,5 +238,45 @@
   {
     "link": "https://github.com/anthropics/claude-code/issues/74066",
     "seen_at": "2026-07-04T23:43:24.359266+00:00"
+  },
+  {
+    "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://ui.shadcn.com/docs/changelog",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2605.21997",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://olliewilliams.xyz/blog/dark-mode/",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://www.animmouse.com/p/my-asn-journey/",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://yusufaytas.com/the-engineer-in-the-half-space",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://www.bbc.com/news/articles/cz758x04g83o",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "seen_at": "2026-07-05T12:52:16.583988+00:00"
   }
 ]
