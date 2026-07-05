@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.01232",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-    "seen_at": "2026-07-02T15:57:50.191919+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "seen_at": "2026-07-02T23:45:23.150407+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
     "seen_at": "2026-07-05T12:52:16.583988+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://www.opentools.studio/",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://search.cerast-intelligence.com/",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://github.com/514-labs/dnsglobe",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
+  },
+  {
+    "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+    "seen_at": "2026-07-05T23:44:38.533926+00:00"
   }
 ]
