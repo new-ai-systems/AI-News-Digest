@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://blog.flipper.net/future-of-flipper-zero-development/",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://www.opentools.studio/",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://search.cerast-intelligence.com/",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://github.com/514-labs/dnsglobe",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://segflow.github.io/post/zero-copy-sendfile-splice/",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
-    "link": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
-    "seen_at": "2026-07-05T23:44:38.533926+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "seen_at": "2026-07-06T17:56:03.555298+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2607.05690",
     "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://openai.com/index/introducing-gpt-live/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://cognition.com/blog/swe-1-7",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://mistral.ai/news/robostral-navigate/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
+  },
+  {
+    "link": "https://microsoft.github.io/flint-chart/#/",
+    "seen_at": "2026-07-08T23:45:48.791695+00:00"
   }
 ]
