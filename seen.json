@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://github.com/openai/codex/issues/30364",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2606.26967",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://javoriuski.com/post/youtube",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://github.com/anthropics/claude-code/issues/74066",
-    "seen_at": "2026-07-04T23:43:24.359266+00:00"
-  },
-  {
-    "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://computer.rip/2026-07-04-microwave-and-power.html",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://ui.shadcn.com/docs/changelog",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2605.21997",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://ryelang.org/blog/posts/reducing_assumptions_but_exploding/",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://olliewilliams.xyz/blog/dark-mode/",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://www.animmouse.com/p/my-asn-journey/",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://yusufaytas.com/the-engineer-in-the-half-space",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://www.bbc.com/news/articles/cz758x04g83o",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
-    "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-    "seen_at": "2026-07-05T12:52:16.583988+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
     "seen_at": "2026-07-05T23:44:38.533926+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
     "seen_at": "2026-07-07T23:32:03.344015+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/962519/meta-privacy-light-tampering-smart-glasses-update",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/07/08/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.05690",
+    "seen_at": "2026-07-08T13:19:32.344213+00:00"
   }
 ]
