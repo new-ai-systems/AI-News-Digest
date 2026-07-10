@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.02807",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.02914",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.03397",
-    "seen_at": "2026-07-07T16:44:48.991494+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/962156/discord-accidental-bans-grid-images",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/962313/made-by-google-pixel-11-launch-event",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://github.com/bkuan001/halo-record",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-    "seen_at": "2026-07-07T23:32:03.344015+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
     "seen_at": "2026-07-08T13:19:32.344213+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2607.08038",
     "seen_at": "2026-07-10T16:35:41.858175+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.08147",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://nebusec.ai/research/ionstack-part-2/",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://casp.ac/reports/ai-enabled-terrorism",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
+  },
+  {
+    "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "seen_at": "2026-07-10T23:33:22.686231+00:00"
   }
 ]
