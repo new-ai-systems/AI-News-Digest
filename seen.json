@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://openai.com/index/introducing-gpt-live/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://cognition.com/blog/swe-1-7",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://mistral.ai/news/robostral-navigate/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
-    "link": "https://microsoft.github.io/flint-chart/#/",
-    "seen_at": "2026-07-08T23:45:48.791695+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
     "seen_at": "2026-07-09T17:08:14.928434+00:00"
   },
@@ -266,5 +226,45 @@
   {
     "link": "https://github.com/swellweb/reame",
     "seen_at": "2026-07-11T22:33:23.546645+00:00"
+  },
+  {
+    "link": "https://www.iroh.computer/blog/mesh-llm",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://github.com/cosmtrek/mindwalk",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://github.com/Wren6991/RISCBoy",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://dakra.github.io/ghostel/",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://www.neowin.net/news/it-admins-feel-overwhelmingly-sick-of-microsoft-and-windows-11-garbage-apps-products/",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://ca.pcmag.com/social-media/16790/the-death-of-the-status-update-why-55-of-americans-stopped-posting-on-social-media",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://fabiensanglard.net/tb4/index.html",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/1203.5426",
+    "seen_at": "2026-07-12T11:45:19.477912+00:00"
   }
 ]
