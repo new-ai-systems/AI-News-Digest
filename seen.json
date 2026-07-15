@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://www.adaptiverecall.com/",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://nanduruganesh.github.io/flash-msa/",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of_the_countrys_electricity/5270013",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.06377",
-    "seen_at": "2026-07-12T22:33:54.426800+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
     "seen_at": "2026-07-13T16:59:17.598813+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
     "seen_at": "2026-07-15T12:55:28.160706+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://github.com/xai-org/grok-build",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
+  },
+  {
+    "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "seen_at": "2026-07-15T23:37:02.090745+00:00"
   }
 ]
