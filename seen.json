@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://neow.in/cWsyMTV3",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://playcode.io/blog/real-price-of-frontier-models",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-    "seen_at": "2026-07-13T23:27:43.986446+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
     "seen_at": "2026-07-14T12:50:26.715132+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs/",
     "seen_at": "2026-07-16T23:15:11.449652+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14095",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14096",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14145",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14187",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14197",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14309",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14541",
+    "seen_at": "2026-07-17T12:19:53.759230+00:00"
   }
 ]
