@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://www.bis.org/publ/bisbull120.pdf",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://prismml.com/news/bonsai-27b",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-    "seen_at": "2026-07-14T23:16:08.697379+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
     "seen_at": "2026-07-15T12:55:28.160706+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
     "seen_at": "2026-07-17T22:34:55.181926+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14387",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14275",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14149",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14443",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14581",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.14661",
+    "seen_at": "2026-07-18T11:32:54.121094+00:00"
   }
 ]
