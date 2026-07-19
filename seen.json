@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://github.com/xai-org/grok-build",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
-    "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "seen_at": "2026-07-15T23:37:02.090745+00:00"
-  },
-  {
     "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
     "seen_at": "2026-07-16T13:06:46.934779+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
     "seen_at": "2026-07-18T22:34:03.525443+00:00"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://offlinetts.com/",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://github.com/openai/codex/pull/33972/files",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://airdows.com/",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://github.com/vercel-labs/deepsec",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
+  },
+  {
+    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "seen_at": "2026-07-19T11:41:16.052588+00:00"
   }
 ]
