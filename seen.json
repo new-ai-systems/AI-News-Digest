@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-us-star-in-our-own-ai-videos/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs/",
-    "seen_at": "2026-07-16T23:15:11.449652+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14095",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14096",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14145",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14187",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14197",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14309",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.14541",
-    "seen_at": "2026-07-17T12:19:53.759230+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "seen_at": "2026-07-17T22:34:55.181926+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
     "seen_at": "2026-07-19T22:37:32.261940+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.15367",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.15686",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.15992",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.15414",
+    "seen_at": "2026-07-20T15:31:38.411755+00:00"
   }
 ]
