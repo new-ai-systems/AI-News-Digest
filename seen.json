@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-    "seen_at": "2026-07-18T22:34:03.525443+00:00"
-  },
-  {
     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "seen_at": "2026-07-19T11:41:16.052588+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2607.16868",
     "seen_at": "2026-07-21T13:04:59.083290+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://ads.openai.com/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "seen_at": "2026-07-21T23:16:11.376473+00:00"
   }
 ]
