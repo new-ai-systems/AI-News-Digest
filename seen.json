@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.15367",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.15686",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.15992",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.15414",
-    "seen_at": "2026-07-20T15:31:38.411755+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "seen_at": "2026-07-20T23:35:27.894690+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2607.19358",
     "seen_at": "2026-07-23T13:14:30.470622+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s.-users/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49026810",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "seen_at": "2026-07-23T23:16:30.141226+00:00"
   }
 ]
