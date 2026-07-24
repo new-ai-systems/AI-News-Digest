@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://blaizzy.github.io/nativ/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://cursor.com/blog/agent-swarm-model-economics",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=48981136",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "seen_at": "2026-07-20T23:35:27.894690+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.16199",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.16200",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.16211",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.16868",
-    "seen_at": "2026-07-21T13:04:59.083290+00:00"
-  },
-  {
     "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
     "seen_at": "2026-07-21T23:16:11.376473+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
     "seen_at": "2026-07-23T23:16:30.141226+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://openai.com/index/health-in-chatgpt/",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://sliplane.io/blog/hetzner-inference",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
+  },
+  {
+    "link": "https://bfl.ai/blog/flux-3",
+    "seen_at": "2026-07-24T13:06:27.733887+00:00"
   }
 ]
