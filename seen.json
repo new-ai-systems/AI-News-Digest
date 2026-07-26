@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://frame.work/desktop?tab=192gb-coming-soon",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.19396",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.19433",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.19358",
-    "seen_at": "2026-07-23T13:14:30.470622+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s.-users/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49026810",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
-    "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "seen_at": "2026-07-23T23:16:30.141226+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
     "seen_at": "2026-07-24T13:06:27.733887+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
     "seen_at": "2026-07-26T11:48:49.978566+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://github.com/hkc5/cursor-bridge",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://beyondloom.com/decker/",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
+  },
+  {
+    "link": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+    "seen_at": "2026-07-26T23:35:07.041632+00:00"
   }
 ]
