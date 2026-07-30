@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
-    "link": "https://huggingface.co/moonshotai/Kimi-K3",
-    "seen_at": "2026-07-27T16:36:20.384451+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "seen_at": "2026-07-27T23:46:09.627145+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2607.25076",
     "seen_at": "2026-07-30T13:18:12.826449+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "seen_at": "2026-07-30T23:37:41.130319+00:00"
   }
 ]
