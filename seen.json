@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2510.26692",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "seen_at": "2026-07-28T15:54:58.783700+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://github.com/openai/codex-security",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-    "seen_at": "2026-07-28T23:34:13.501642+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "seen_at": "2026-07-29T15:35:13.451619+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2607.27191",
     "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://tailscale.com/blog/hugging-face-intrusion",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
+  },
+  {
+    "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "seen_at": "2026-07-31T23:38:52.444098+00:00"
   }
 ]
