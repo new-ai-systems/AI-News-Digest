@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/news/position-open-weights-models",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-    "seen_at": "2026-07-27T23:46:09.627145+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
     "seen_at": "2026-07-28T15:54:58.783700+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
     "seen_at": "2026-07-30T23:37:41.130319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.27197",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://api-docs.deepseek.com/updates/",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.26120",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.27191",
+    "seen_at": "2026-07-31T15:49:25.707230+00:00"
   }
 ]
