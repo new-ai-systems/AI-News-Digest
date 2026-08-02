@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://lwn.net/Articles/1086041/",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.24788",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.24814",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.25057",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.25076",
-    "seen_at": "2026-07-30T13:18:12.826449+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
     "seen_at": "2026-07-30T23:37:41.130319+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
     "seen_at": "2026-08-02T09:58:12.765976+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://github.com/graham33/nixos-dgx-spark",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://github.com/wie-project/kakehashi",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://fstar-lang.org/",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "seen_at": "2026-08-02T21:02:30.286380+00:00"
   }
 ]
