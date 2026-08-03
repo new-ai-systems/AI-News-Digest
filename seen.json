@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "seen_at": "2026-07-30T23:37:41.130319+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
     "seen_at": "2026-07-31T15:49:25.707230+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
     "seen_at": "2026-08-02T21:02:30.286380+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28677",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28881",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28629",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28632",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.29254",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.29405",
+    "seen_at": "2026-08-03T11:24:45.296553+00:00"
   }
 ]
