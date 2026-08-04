@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://tailscale.com/blog/hugging-face-intrusion",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
-    "link": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "seen_at": "2026-07-31T23:38:52.444098+00:00"
-  },
-  {
     "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
     "seen_at": "2026-08-01T11:48:36.863228+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
     "seen_at": "2026-08-03T21:11:59.795437+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28685",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28818",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.29320",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28633",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28639",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.28645",
+    "seen_at": "2026-08-04T10:40:51.089277+00:00"
   }
 ]
