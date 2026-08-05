@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://victoriametrics.com/blog/go-1-27/index.html",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://diataxis.fr/",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
-    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-    "seen_at": "2026-08-02T09:58:12.765976+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "seen_at": "2026-08-02T21:02:30.286380+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://mistral.ai/news/shieldstral/",
     "seen_at": "2026-08-04T21:19:20.286184+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2607.29377",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://github.com/Carloscodix/qapla",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.02699",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.03076",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.03214",
+    "seen_at": "2026-08-05T10:36:21.829201+00:00"
   }
 ]
