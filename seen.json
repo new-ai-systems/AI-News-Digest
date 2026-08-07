@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28677",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28881",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28629",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28632",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.29254",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.29405",
-    "seen_at": "2026-08-03T11:24:45.296553+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://github.com/lyogavin/airllm",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://hoplite.sh",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "seen_at": "2026-08-03T21:11:59.795437+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "seen_at": "2026-08-04T10:40:51.089277+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.03487",
     "seen_at": "2026-08-06T10:40:57.931151+00:00"
+  },
+  {
+    "link": "https://www.theregister.com/systems/2026/08/06/amd-acqui res-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "seen_at": "2026-08-07T00:54:40.387309+00:00"
   }
 ]
