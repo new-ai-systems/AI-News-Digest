@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28685",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28818",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.29320",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28633",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28639",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2607.28645",
-    "seen_at": "2026-08-04T10:40:51.089277+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
     "seen_at": "2026-08-04T21:19:20.286184+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2608.05695",
     "seen_at": "2026-08-07T09:00:10.378392+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "seen_at": "2026-08-07T20:49:46.303274+00:00"
   }
 ]
