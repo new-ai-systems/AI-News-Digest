@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
-    "link": "https://mistral.ai/news/shieldstral/",
-    "seen_at": "2026-08-04T21:19:20.286184+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
     "seen_at": "2026-08-05T10:36:21.829201+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
     "seen_at": "2026-08-07T20:49:46.303274+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://genesisopenmodels.anl.gov/",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
+  },
+  {
+    "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont_belong_on_the_internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "seen_at": "2026-08-08T08:42:13.197907+00:00"
   }
 ]
