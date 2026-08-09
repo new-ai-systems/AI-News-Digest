@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.04205",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.04458",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.05144",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2503.15560",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.03487",
-    "seen_at": "2026-08-06T10:40:57.931151+00:00"
-  },
-  {
     "link": "https://www.theregister.com/systems/2026/08/06/amd-acqui res-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
     "seen_at": "2026-08-07T00:54:40.387309+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
     "seen_at": "2026-08-09T08:43:28.284646+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://openchamber.dev/",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://github.com/eighttrigrams/us-vs-them",
+    "seen_at": "2026-08-09T20:40:57.215565+00:00"
   }
 ]
