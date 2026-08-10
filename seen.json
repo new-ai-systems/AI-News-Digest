@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
-    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-    "seen_at": "2026-08-07T20:49:46.303274+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "seen_at": "2026-08-08T08:42:13.197907+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.06961",
     "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://cactuscompute.com/needle",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://www.stoaexchange.com",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
+    "seen_at": "2026-08-10T20:52:01.227766+00:00"
   }
 ]
