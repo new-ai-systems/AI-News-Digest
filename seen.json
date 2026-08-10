@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://www.theregister.com/systems/2026/08/06/amd-acqui res-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "seen_at": "2026-08-07T00:54:40.387309+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://zenodo.org/records/21359923",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://www.aleksagordic.com/blog/vllm",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.05160",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.05695",
-    "seen_at": "2026-08-07T09:00:10.378392+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
     "seen_at": "2026-08-07T20:49:46.303274+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://github.com/eighttrigrams/us-vs-them",
     "seen_at": "2026-08-09T20:40:57.215565+00:00"
+  },
+  {
+    "link": "https://www.docker.com/products/docker-sandboxes/",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://github.com/shinyquagsire23/Klepton",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.06410",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.06732",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.06756",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.06961",
+    "seen_at": "2026-08-10T09:22:41.535191+00:00"
   }
 ]
