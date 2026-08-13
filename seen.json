@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://www.docker.com/products/docker-sandboxes/",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://github.com/shinyquagsire23/Klepton",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.06410",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.06732",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.06756",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.06961",
-    "seen_at": "2026-08-10T09:22:41.535191+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://cactuscompute.com/needle",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://www.stoaexchange.com",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-    "seen_at": "2026-08-10T20:52:01.227766+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
     "seen_at": "2026-08-11T08:58:00.140915+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.11226",
     "seen_at": "2026-08-13T09:13:26.324767+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://docs.mistral.ai/models/ocr-4-1",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "seen_at": "2026-08-13T20:52:43.195035+00:00"
   }
 ]
