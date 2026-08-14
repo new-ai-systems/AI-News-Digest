@@ -238,5 +238,45 @@
   {
     "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
     "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-GPUs/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/08/14/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/information-technology/2026/08/14/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/08/14/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-text-watermark",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "seen_at": "2026-08-14T20:36:51.428093+00:00"
   }
 ]
