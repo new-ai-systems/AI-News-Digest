@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://thewalrus.ca/google-search-is-dying/",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content/",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.07645",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.07621",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.07627",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.07705",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.07786",
-    "seen_at": "2026-08-11T08:58:00.140915+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
     "seen_at": "2026-08-11T20:54:51.544504+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
     "seen_at": "2026-08-13T20:52:43.195035+00:00"
+  },
+  {
+    "link": "https://z.ai/blog/glm-5.3",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12373",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12346",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12851",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+    "seen_at": "2026-08-14T09:07:33.203244+00:00"
   }
 ]
