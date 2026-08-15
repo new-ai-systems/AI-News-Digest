@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://llama.app",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.10224",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.10153",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.10218",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.10393",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.09998",
-    "seen_at": "2026-08-12T09:12:23.583179+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
     "seen_at": "2026-08-12T20:53:48.610696+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2608.12675",
     "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://sankalp.bearblog.dev/autoresearch/",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "seen_at": "2026-08-15T20:29:56.639882+00:00"
   }
 ]
