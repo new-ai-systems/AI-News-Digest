@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
-    "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "seen_at": "2026-08-11T20:54:51.544504+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
     "seen_at": "2026-08-12T09:12:23.583179+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
     "seen_at": "2026-08-14T20:36:51.428093+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12863",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12395",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12932",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12368",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12345",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12385",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12476",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.12675",
+    "seen_at": "2026-08-15T08:29:54.842760+00:00"
   }
 ]
