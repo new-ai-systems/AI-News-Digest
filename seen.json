@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://docs.mistral.ai/models/ocr-4-1",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "seen_at": "2026-08-13T20:52:43.195035+00:00"
-  },
-  {
     "link": "https://z.ai/blog/glm-5.3",
     "seen_at": "2026-08-14T09:07:33.203244+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
     "seen_at": "2026-08-16T20:30:09.685400+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13573",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13577",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13618",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.13951",
+    "seen_at": "2026-08-17T08:44:16.953624+00:00"
   }
 ]
