@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://sankalp.bearblog.dev/autoresearch/",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "seen_at": "2026-08-15T20:29:56.639882+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "seen_at": "2026-08-16T08:30:43.387032+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.14694",
     "seen_at": "2026-08-18T08:37:51.102052+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+    "seen_at": "2026-08-18T20:31:19.950944+00:00"
   }
 ]
