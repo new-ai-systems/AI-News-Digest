@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://math-ai-org.github.io/mathcode/",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://wildstatic.com/",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://buf.build/blog/protobuf-lsp",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49322107",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-    "seen_at": "2026-08-16T20:30:09.685400+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "seen_at": "2026-08-17T08:44:16.953624+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.17471",
     "seen_at": "2026-08-19T08:38:14.446468+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "seen_at": "2026-08-19T20:35:40.579222+00:00"
   }
 ]
