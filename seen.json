@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.13573",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.13577",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.13618",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.13951",
-    "seen_at": "2026-08-17T08:44:16.953624+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://artificialanalysis.ai/models/qwen3-8-27b/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
-    "link": "https://speko.ai/",
-    "seen_at": "2026-08-17T20:33:59.923245+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "seen_at": "2026-08-18T08:37:51.102052+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.18136",
     "seen_at": "2026-08-20T08:39:35.968776+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
+  },
+  {
+    "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "seen_at": "2026-08-20T20:35:49.906641+00:00"
   }
 ]
