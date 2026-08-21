@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
-    "seen_at": "2026-08-18T20:31:19.950944+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "seen_at": "2026-08-19T08:38:14.446468+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2608.19794",
     "seen_at": "2026-08-21T08:41:04.194646+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-on-robotaxi-battle-with-uber/",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://kagi.com/changelog#11296",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
+  },
+  {
+    "link": "https://lina.sh/blog/hijacking-e164-arpa",
+    "seen_at": "2026-08-21T20:32:26.813143+00:00"
   }
 ]
