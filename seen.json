@@ -1,41 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://martypc.net/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "seen_at": "2026-08-23T08:31:01.907655+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "seen_at": "2026-08-23T20:30:42.018692+00:00"
   },
@@ -234,5 +198,45 @@
   {
     "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "seen_at": "2026-08-25T20:36:11.884473+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.23642",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.23646",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.23873",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.23622",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2608.23834",
+    "seen_at": "2026-08-26T08:43:52.716205+00:00"
   }
 ]
