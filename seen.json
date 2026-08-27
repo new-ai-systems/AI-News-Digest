@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://arxiv.org/abs/2608.20631",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20397",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20845",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20820",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20425",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20549",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20630",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20688",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20490",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.20853",
-    "seen_at": "2026-08-24T08:49:22.603502+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
     "seen_at": "2026-08-24T20:37:50.705004+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
     "seen_at": "2026-08-26T23:14:28.990103+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
+  },
+  {
+    "link": "https://calv.info/small-models-have-arrived",
+    "seen_at": "2026-08-27T18:55:39.442928+00:00"
   }
 ]
