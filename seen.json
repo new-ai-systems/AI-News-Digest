@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
-    "link": "https://calv.info/small-models-have-arrived",
-    "seen_at": "2026-08-27T18:55:39.442928+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
     "seen_at": "2026-08-28T04:09:43.007659+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
     "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://github.com/KodeMunkie/sm750hdmifb",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://0xcc.io/posts/omarchy-root-creds/",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
+  },
+  {
+    "link": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+    "seen_at": "2026-08-30T22:37:11.272401+00:00"
   }
 ]
