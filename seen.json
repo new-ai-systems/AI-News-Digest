@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "seen_at": "2026-08-26T23:14:28.990103+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "seen_at": "2026-08-27T18:55:39.442928+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
     "seen_at": "2026-08-29T22:33:38.372580+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://github.com/AniketWathore/bolnee-chat",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "seen_at": "2026-08-30T13:37:23.580011+00:00"
   }
 ]
