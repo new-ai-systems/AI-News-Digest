@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26113",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26162",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26198",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26235",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26530",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26701",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.26743",
-    "seen_at": "2026-08-29T13:39:54.409317+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "seen_at": "2026-08-29T22:33:38.372580+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2608.28652",
     "seen_at": "2026-09-01T13:11:01.045601+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://openai.com/index/path-to-astra/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "seen_at": "2026-09-01T22:31:07.630520+00:00"
   }
 ]
