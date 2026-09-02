@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://github.com/AniketWathore/bolnee-chat",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "seen_at": "2026-08-30T13:37:23.580011+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "seen_at": "2026-08-30T22:37:11.272401+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2609.00192",
     "seen_at": "2026-09-02T12:36:35.320174+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://developer.meta.com/ai/models/muse-spark/",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "seen_at": "2026-09-02T22:30:41.351857+00:00"
   }
 ]
