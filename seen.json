@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://calpaterson.com/memoryfields.html",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
-    "link": "https://github.com/Hebbian-Robotics/hflow",
-    "seen_at": "2026-08-31T15:55:03.066303+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
     "seen_at": "2026-08-31T23:41:57.894916+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
     "seen_at": "2026-09-03T12:40:50.593963+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
+    "seen_at": "2026-09-03T22:29:03.654060+00:00"
   }
 ]
