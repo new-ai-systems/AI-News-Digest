@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://usealmanac.com/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "seen_at": "2026-08-31T23:41:57.894916+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
     "seen_at": "2026-09-01T13:11:01.045601+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
     "seen_at": "2026-09-03T22:29:03.654060+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.03236",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.03460",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.03716",
+    "seen_at": "2026-09-04T12:33:30.228367+00:00"
   }
 ]
