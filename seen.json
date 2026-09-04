@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://mvakde.github.io/blog/44-on-arc-1/",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.28593",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.28632",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.28646",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2608.28652",
-    "seen_at": "2026-09-01T13:11:01.045601+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "seen_at": "2026-09-01T22:31:07.630520+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2609.03716",
     "seen_at": "2026-09-04T12:33:30.228367+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip/",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be/",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit/",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "seen_at": "2026-09-04T22:17:09.316069+00:00"
   }
 ]
