@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://developer.meta.com/ai/models/muse-spark/",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "seen_at": "2026-09-02T22:30:41.351857+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "seen_at": "2026-09-03T12:40:50.593963+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
     "seen_at": "2026-09-05T22:01:44.858270+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://openai.robocurve.org/gpt-6-astra/",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://cloudinabottle.org/blog/launch-post",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
+  },
+  {
+    "link": "https://github.com/pigeonlabsHQ/pigeon",
+    "seen_at": "2026-09-06T12:00:16.012477+00:00"
   }
 ]
