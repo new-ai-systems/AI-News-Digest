@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
-    "seen_at": "2026-09-03T22:29:03.654060+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.03236",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.03460",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.03716",
-    "seen_at": "2026-09-04T12:33:30.228367+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "seen_at": "2026-09-04T22:17:09.316069+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://asahilinux.org/2026/09/m2-episode-1/",
     "seen_at": "2026-09-06T22:03:01.209488+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=49596976",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.04373",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.04304",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.04665",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.04699",
+    "seen_at": "2026-09-07T14:02:46.724013+00:00"
   }
 ]
