@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/openais-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-\u5de5\u7a0b\u5e08lose-touch-with-their-systems",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
-    "seen_at": "2026-09-05T11:42:08.982241+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "seen_at": "2026-09-05T22:01:44.858270+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
     "seen_at": "2026-09-07T22:42:55.137113+00:00"
+  },
+  {
+    "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://weirdgloop.org/blog/google-jail",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://github.com/TauricResearch/TradingAgents",
+    "seen_at": "2026-09-08T12:40:17.544763+00:00"
   }
 ]
