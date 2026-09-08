@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.03344",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-    "seen_at": "2026-09-05T22:01:44.858270+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "seen_at": "2026-09-06T12:00:16.012477+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://github.com/TauricResearch/TradingAgents",
     "seen_at": "2026-09-08T12:40:17.544763+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-singling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
+  },
+  {
+    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "seen_at": "2026-09-08T22:30:49.289926+00:00"
   }
 ]
