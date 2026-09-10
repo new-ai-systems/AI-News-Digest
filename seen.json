@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49596976",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.04373",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.04304",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.04665",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.04699",
-    "seen_at": "2026-09-07T14:02:46.724013+00:00"
-  },
-  {
     "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
     "seen_at": "2026-09-07T22:42:55.137113+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
     "seen_at": "2026-09-10T12:45:21.970089+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://cognition.com/blog/swe-2",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+    "seen_at": "2026-09-10T22:24:35.677240+00:00"
   }
 ]
