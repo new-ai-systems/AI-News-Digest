@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://weirdgloop.org/blog/google-jail",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
-    "link": "https://github.com/TauricResearch/TradingAgents",
-    "seen_at": "2026-09-08T12:40:17.544763+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
     "seen_at": "2026-09-08T22:30:49.289926+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2609.10036",
     "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://mathandai.org/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
+  },
+  {
+    "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+    "seen_at": "2026-09-11T22:24:39.661256+00:00"
   }
 ]
