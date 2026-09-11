@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.nber.org/papers/w35559",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://github.com/iczelia/bzip3",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://mathathonchallenge.com/index.html",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-    "seen_at": "2026-09-07T22:42:55.137113+00:00"
-  },
-  {
     "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
     "seen_at": "2026-09-08T12:40:17.544763+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
     "seen_at": "2026-09-10T22:24:35.677240+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.09647",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.09875",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.10036",
+    "seen_at": "2026-09-11T12:39:48.832889+00:00"
   }
 ]
