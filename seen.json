@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=49624603",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://openai.com/index/codex-quantum-computing-experiments/",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
-    "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-    "seen_at": "2026-09-09T12:47:14.538092+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
     "seen_at": "2026-09-09T22:26:45.085089+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.claymath.org/news/navier-stokes-announcement/",
     "seen_at": "2026-09-12T12:01:12.542145+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://withspecific.com/benchmarks/real-swe",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://hachyderm.io/@simontatham/117201594980991062",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "seen_at": "2026-09-12T22:07:59.605963+00:00"
   }
 ]
