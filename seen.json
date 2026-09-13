@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "seen_at": "2026-09-09T22:26:45.085089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/992442/volvo-xc40-phev-specs-price-gemini",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-    "seen_at": "2026-09-10T12:45:21.970089+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "seen_at": "2026-09-10T22:24:35.677240+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
     "seen_at": "2026-09-12T22:07:59.605963+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://agentsdock.net/",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
+  },
+  {
+    "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "seen_at": "2026-09-13T13:09:09.980655+00:00"
   }
 ]
