@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://cognition.com/blog/swe-2",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-    "seen_at": "2026-09-10T22:24:35.677240+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.09647",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.09875",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.10036",
-    "seen_at": "2026-09-11T12:39:48.832889+00:00"
-  },
-  {
     "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
     "seen_at": "2026-09-11T22:24:39.661256+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://cpak.it/",
     "seen_at": "2026-09-13T22:17:22.650372+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://triangllabs.ai/otis",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+    "seen_at": "2026-09-14T14:49:01.718570+00:00"
   }
 ]
