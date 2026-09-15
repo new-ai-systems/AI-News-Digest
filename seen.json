@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://withspecific.com/benchmarks/real-swe",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://hachyderm.io/@simontatham/117201594980991062",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-    "seen_at": "2026-09-12T22:07:59.605963+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
     "seen_at": "2026-09-13T13:09:09.980655+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2609.13535",
     "seen_at": "2026-09-15T13:13:16.611625+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://mnoukhov.github.io/posts/ngu/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://spectrum.ieee.org/inference-hardware-revolution/",
+    "seen_at": "2026-09-15T22:49:28.222626+00:00"
   }
 ]
