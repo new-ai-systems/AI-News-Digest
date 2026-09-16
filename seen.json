@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://agentsdock.net/",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
-    "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "seen_at": "2026-09-13T13:09:09.980655+00:00"
-  },
-  {
     "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
     "seen_at": "2026-09-13T22:17:22.650372+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://spectrum.ieee.org/inference-hardware-revolution/",
     "seen_at": "2026-09-15T22:49:28.222626+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://status.salesforce.com/products/all",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://mistral.ai/news/mistral-x-mozilla/",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://security.apple.com/blog/apple-reference-image/",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.16213",
+    "seen_at": "2026-09-16T13:12:58.780579+00:00"
   }
 ]
