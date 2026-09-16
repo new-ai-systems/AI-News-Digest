@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
-    "link": "https://cpak.it/",
-    "seen_at": "2026-09-13T22:17:22.650372+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
     "seen_at": "2026-09-14T14:49:01.718570+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2609.16213",
     "seen_at": "2026-09-16T13:12:58.780579+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://rohanbansal.com/qorl",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
+  },
+  {
+    "link": "https://institute.deepmind.com/",
+    "seen_at": "2026-09-16T22:49:26.828151+00:00"
   }
 ]
