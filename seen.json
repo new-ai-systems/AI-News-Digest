@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://triangllabs.ai/otis",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-    "seen_at": "2026-09-14T14:49:01.718570+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "seen_at": "2026-09-14T23:02:42.207529+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2609.17865",
     "seen_at": "2026-09-17T13:07:18.944144+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+    "seen_at": "2026-09-17T22:46:13.620702+00:00"
   }
 ]
