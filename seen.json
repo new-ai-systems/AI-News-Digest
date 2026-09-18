@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.13356",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.13406",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.13466",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.13535",
-    "seen_at": "2026-09-15T13:13:16.611625+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "seen_at": "2026-09-15T22:49:28.222626+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2609.19391",
     "seen_at": "2026-09-18T12:46:28.911993+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
+  },
+  {
+    "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+    "seen_at": "2026-09-18T22:27:00.544333+00:00"
   }
 ]
