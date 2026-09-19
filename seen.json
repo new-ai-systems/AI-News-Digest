@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://status.salesforce.com/products/all",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://security.apple.com/blog/apple-reference-image/",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.16213",
-    "seen_at": "2026-09-16T13:12:58.780579+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
     "seen_at": "2026-09-16T22:49:26.828151+00:00"
   },
@@ -274,5 +234,45 @@
   {
     "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
     "seen_at": "2026-09-19T12:19:29.671156+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://eprint.iacr.org/2026/2039",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://github.com/trycua/cua",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://laya.convaiinnovations.com/",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+    "seen_at": "2026-09-19T22:17:57.143910+00:00"
   }
 ]
