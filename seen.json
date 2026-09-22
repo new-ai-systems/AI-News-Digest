@@ -1,41 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://browser.geekbench.com/v7/cpu/389219",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://spectrum.ieee.org/llms-for-chip-design",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "seen_at": "2026-09-19T12:19:29.671156+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
     "seen_at": "2026-09-19T22:17:57.143910+00:00"
   },
@@ -234,5 +198,45 @@
   {
     "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
     "seen_at": "2026-09-21T23:08:18.135133+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+    "seen_at": "2026-09-22T13:10:38.762239+00:00"
   }
 ]
