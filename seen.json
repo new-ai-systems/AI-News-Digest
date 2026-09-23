@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://pirateface.co/",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
-    "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-    "seen_at": "2026-09-20T22:19:55.275501+00:00"
-  },
-  {
     "link": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
     "seen_at": "2026-09-21T14:54:17.390204+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2609.22682",
     "seen_at": "2026-09-23T13:25:09.496436+00:00"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
+  },
+  {
+    "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "seen_at": "2026-09-23T22:52:09.004683+00:00"
   }
 ]
