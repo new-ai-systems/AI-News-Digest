@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
-    "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "seen_at": "2026-09-22T22:51:17.997039+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
     "seen_at": "2026-09-23T13:25:09.496436+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2609.28570",
     "seen_at": "2026-09-25T13:19:34.964660+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://mouse.dev/blog/muse-special/",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "seen_at": "2026-09-25T23:12:59.065929+00:00"
   }
 ]
