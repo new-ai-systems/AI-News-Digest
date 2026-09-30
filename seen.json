@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://github.com/deepfates/imp",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://fireworks.ai/blog/ember-1",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
-    "link": "https://tinyaiarena.com/",
-    "seen_at": "2026-09-27T22:56:01.469978+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
     "seen_at": "2026-09-28T16:32:07.090061+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
     "seen_at": "2026-09-30T14:41:43.974396+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
+  },
+  {
+    "link": "https://github.com/magnitudedev/magnitude",
+    "seen_at": "2026-09-30T23:38:03.874498+00:00"
   }
 ]
