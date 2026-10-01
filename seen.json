@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2609.30383",
-    "seen_at": "2026-09-28T16:32:07.090061+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "seen_at": "2026-09-29T00:18:20.096592+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.theverge.com/games/1002768/gears-of-war-eday-review-xbox",
     "seen_at": "2026-10-01T15:10:07.820036+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
+  },
+  {
+    "link": "https://blog.cloudflare.com/clef-decision-models/",
+    "seen_at": "2026-10-01T23:50:13.466264+00:00"
   }
 ]
