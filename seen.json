@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
-    "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-    "seen_at": "2026-09-30T14:41:43.974396+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "seen_at": "2026-09-30T23:38:03.874498+00:00"
   },
@@ -270,5 +230,45 @@
   {
     "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
     "seen_at": "2026-10-03T13:07:07.458608+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://github.com/nicobrenner/jeffy",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://vxlang.org/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
+  },
+  {
+    "link": "https://ftl-os.org/",
+    "seen_at": "2026-10-03T22:48:09.773157+00:00"
   }
 ]
