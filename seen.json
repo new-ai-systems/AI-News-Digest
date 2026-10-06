@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://dwarfstar.sh/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://www.figure.ai/news/f-02-decommission",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-    "seen_at": "2026-10-02T23:40:16.425814+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
     "seen_at": "2026-10-03T13:07:07.458608+00:00"
   },
@@ -230,5 +190,45 @@
   {
     "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
     "seen_at": "2026-10-05T16:53:19.063041+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://edworkingpapers.com/ai26-1551",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
+  },
+  {
+    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "seen_at": "2026-10-06T01:15:17.919668+00:00"
   }
 ]
