@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
-    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-    "seen_at": "2026-10-05T16:53:19.063041+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "seen_at": "2026-10-06T01:15:17.919668+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2610.07219",
     "seen_at": "2026-10-08T15:17:02.242410+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://openrouter.ai/stepfun/step-5-preview/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "seen_at": "2026-10-09T00:14:11.561176+00:00"
   }
 ]
