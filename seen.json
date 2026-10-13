@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
-    "seen_at": "2026-10-10T23:23:14.357584+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
     "seen_at": "2026-10-11T14:43:11.366096+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://github.com/rust-lang/rust/issues/164250",
     "seen_at": "2026-10-13T15:38:52.471587+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://deepmind.google/models/gemini/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://www.apple.com/apple-homeview/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
+  },
+  {
+    "link": "https://www.pi.website/blog/api-beta",
+    "seen_at": "2026-10-13T23:41:35.001085+00:00"
   }
 ]
