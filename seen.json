@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50059096",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.12762",
-    "seen_at": "2026-10-12T17:28:20.901195+00:00"
-  },
-  {
     "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
     "seen_at": "2026-10-13T01:56:35.292482+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2610.14576",
     "seen_at": "2026-10-15T13:08:36.206724+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://www.krea.ai/krea-3",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+    "seen_at": "2026-10-15T22:59:16.768846+00:00"
   }
 ]
