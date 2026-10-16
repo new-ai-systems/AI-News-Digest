@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://doi.org/10.1111/acel.70751",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://github.com/openai/codex/issues/48195",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://github.com/prabanta-dev/janas",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://z.ai/blog/glm-legal",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
-    "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-    "seen_at": "2026-10-13T01:56:35.292482+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
     "seen_at": "2026-10-13T15:38:52.471587+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
     "seen_at": "2026-10-15T22:59:16.768846+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/988582/apple-iphone-duo-preorder-buy-foldable",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "seen_at": "2026-10-16T13:03:28.409003+00:00"
   }
 ]
