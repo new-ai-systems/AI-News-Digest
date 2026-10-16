@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1010054/apple-homeview-display-preorder-buy",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microp",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://www.firefox.com/en-US/enterprise/",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
-    "link": "https://github.com/rust-lang/rust/issues/164250",
-    "seen_at": "2026-10-13T15:38:52.471587+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "seen_at": "2026-10-13T23:41:35.001085+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
     "seen_at": "2026-10-16T13:03:28.409003+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
+  },
+  {
+    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "seen_at": "2026-10-16T22:43:36.640260+00:00"
   }
 ]
