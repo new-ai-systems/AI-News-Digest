@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.14360",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.14389",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.14576",
-    "seen_at": "2026-10-15T13:08:36.206724+00:00"
-  },
-  {
     "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
     "seen_at": "2026-10-15T22:59:16.768846+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
     "seen_at": "2026-10-18T12:29:13.302209+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.18861",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://github.com/Netflix/vmaf",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://www.getlazarus.org/dynamic/",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
+  },
+  {
+    "link": "https://ranet3.com/",
+    "seen_at": "2026-10-18T22:20:42.131319+00:00"
   }
 ]
