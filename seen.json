@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "seen_at": "2026-10-16T22:43:36.640260+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
     "seen_at": "2026-10-17T12:00:37.405833+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2610.22603",
     "seen_at": "2026-10-19T15:19:52.825947+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014042/coreweave-stock-debt-sector-ai",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://www.minimax.io/blog/minimax-m31f",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
+  },
+  {
+    "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+    "seen_at": "2026-10-19T23:30:27.925027+00:00"
   }
 ]
