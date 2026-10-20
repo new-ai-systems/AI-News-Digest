@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://twitter.com/opencode/status/2111516673953935833",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
-    "link": "https://lwn.net/Articles/1088776/",
-    "seen_at": "2026-10-17T22:08:17.748686+00:00"
-  },
-  {
     "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
     "seen_at": "2026-10-18T12:29:13.302209+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://github.com/deepseek-ai/DeepInfer/",
     "seen_at": "2026-10-20T13:23:28.482856+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/20/anthropic-itches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://github.com/google-pytorch/torch_tpu",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://mistral.ai/news/voxtral-3/",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://emudhra.we-have-a-problem.com/",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "seen_at": "2026-10-20T23:05:10.295660+00:00"
   }
 ]
