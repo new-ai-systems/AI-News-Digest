@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://github.com/0x23/MicroManipulatorStepper",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/research/employment-at-anthropic",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://api-docs.deepseek.com/guides/search/",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://sphinx-six-theta.vercel.app/",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-    "seen_at": "2026-10-18T12:29:13.302209+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "seen_at": "2026-10-18T22:20:42.131319+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
     "seen_at": "2026-10-20T23:05:10.295660+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+    "seen_at": "2026-10-21T13:31:38.571190+00:00"
   }
 ]
