@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.18861",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://github.com/Netflix/vmaf",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://www.getlazarus.org/dynamic/",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
-    "link": "https://ranet3.com/",
-    "seen_at": "2026-10-18T22:20:42.131319+00:00"
-  },
-  {
     "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
     "seen_at": "2026-10-19T15:19:52.825947+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
     "seen_at": "2026-10-21T13:31:38.571190+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
+  },
+  {
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "seen_at": "2026-10-21T23:09:14.150792+00:00"
   }
 ]
