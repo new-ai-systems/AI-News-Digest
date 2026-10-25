@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-    "seen_at": "2026-10-22T13:32:56.390953+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "seen_at": "2026-10-22T23:10:19.881194+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "seen_at": "2026-10-25T13:00:11.111186+00:00"
+  },
+  {
+    "link": "https://minimaxir.com/2026/10/cheap-llms/",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://lynchlab.net/llm-skin-cancer",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+    "seen_at": "2026-10-25T22:24:54.276252+00:00"
   }
 ]
