@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/1password-luanches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://github.com/NVIDIA/OpenShell",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-    "seen_at": "2026-10-22T23:10:19.881194+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://jank-lang.org/",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.28763",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.28945",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.29139",
-    "seen_at": "2026-10-23T13:08:53.078058+00:00"
-  },
-  {
     "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
     "seen_at": "2026-10-23T22:59:55.948758+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
     "seen_at": "2026-10-25T22:24:54.276252+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.31882",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.32258",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.31846",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.31985",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.32026",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.32057",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.32069",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.32245",
+    "seen_at": "2026-10-26T14:57:21.991948+00:00"
   }
 ]
