@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://dreamlabs.ai/research/dream-1/",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.29162",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
-    "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "seen_at": "2026-10-24T22:22:31.003036+00:00"
-  },
-  {
     "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
     "seen_at": "2026-10-25T13:00:11.111186+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2610.33180",
     "seen_at": "2026-10-27T14:04:42.898468+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "seen_at": "2026-10-27T23:39:57.993584+00:00"
   }
 ]
