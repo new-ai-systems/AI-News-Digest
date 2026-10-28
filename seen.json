@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://minimaxir.com/2026/10/cheap-llms/",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://lynchlab.net/llm-skin-cancer",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
-    "link": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "seen_at": "2026-10-25T22:24:54.276252+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "seen_at": "2026-10-26T14:57:21.991948+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://emudhra.we-have-a-problem.com/apple.html",
     "seen_at": "2026-10-28T14:54:34.202694+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
+  },
+  {
+    "link": "https://surgehq.ai/blog/dayjob-tax",
+    "seen_at": "2026-10-28T23:58:03.806518+00:00"
   }
 ]
