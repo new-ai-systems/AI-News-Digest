@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2512.13908",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
-    "link": "https://github.com/FrigadeHQ/hob",
-    "seen_at": "2026-10-26T23:41:34.378935+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
     "seen_at": "2026-10-27T14:04:42.898468+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
     "seen_at": "2026-10-29T14:59:37.505750+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50291116",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+    "seen_at": "2026-10-29T23:53:19.387562+00:00"
   }
 ]
