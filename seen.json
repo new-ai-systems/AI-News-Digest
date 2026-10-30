@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.33180",
-    "seen_at": "2026-10-27T14:04:42.898468+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
     "seen_at": "2026-10-27T23:39:57.993584+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
     "seen_at": "2026-10-29T23:53:19.387562+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+    "seen_at": "2026-10-30T14:53:18.174477+00:00"
   }
 ]
