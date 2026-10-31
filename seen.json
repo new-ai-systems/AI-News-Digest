@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
-    "link": "https://emudhra.we-have-a-problem.com/apple.html",
-    "seen_at": "2026-10-28T14:54:34.202694+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
     "seen_at": "2026-10-28T23:58:03.806518+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2610.38210",
     "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://piefed.world/post/1503394",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "seen_at": "2026-10-31T23:16:17.832217+00:00"
   }
 ]
