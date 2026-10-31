@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-    "seen_at": "2026-10-27T23:39:57.993584+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
     "seen_at": "2026-10-28T14:54:34.202694+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
     "seen_at": "2026-10-30T23:34:15.578642+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.37720",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.37739",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.37786",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.37989",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.38006",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.38120",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.38210",
+    "seen_at": "2026-10-31T14:21:41.953992+00:00"
   }
 ]
