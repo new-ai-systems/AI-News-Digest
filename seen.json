@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50291116",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "seen_at": "2026-10-29T23:53:19.387562+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-    "seen_at": "2026-10-30T14:53:18.174477+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
     "seen_at": "2026-10-30T23:34:15.578642+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://github.com/ivankovic/omnidiff",
     "seen_at": "2026-11-01T23:27:41.661714+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://subvocal.company/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://momentic.ai/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "seen_at": "2026-11-02T17:55:22.005167+00:00"
   }
 ]
