@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.37720",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.37739",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.37786",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.37989",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.38006",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.38120",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.38210",
-    "seen_at": "2026-10-31T14:21:41.953992+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "seen_at": "2026-10-31T23:16:17.832217+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
     "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50352757",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.41609",
+    "seen_at": "2026-11-03T15:54:35.311864+00:00"
   }
 ]
