@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1023529/google-project-suncatcher-ai-satellite-transmission",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
-    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "seen_at": "2026-10-30T23:34:15.578642+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "seen_at": "2026-10-31T14:21:41.953992+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
     "seen_at": "2026-11-02T17:55:22.005167+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50340088",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "seen_at": "2026-11-03T02:08:51.457660+00:00"
   }
 ]
