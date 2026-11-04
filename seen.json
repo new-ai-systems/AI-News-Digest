@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://piefed.world/post/1503394",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-    "seen_at": "2026-10-31T23:16:17.832217+00:00"
-  },
-  {
     "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
     "seen_at": "2026-11-01T14:47:29.618427+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2610.41609",
     "seen_at": "2026-11-03T15:54:35.311864+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
+  },
+  {
+    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "seen_at": "2026-11-04T00:32:10.878414+00:00"
   }
 ]
