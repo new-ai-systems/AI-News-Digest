@@ -238,5 +238,45 @@
   {
     "link": "https://www.anthropic.com/research/provable-inference",
     "seen_at": "2026-11-05T00:49:21.903256+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
+  },
+  {
+    "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "seen_at": "2026-11-05T16:13:52.282505+00:00"
   }
 ]
