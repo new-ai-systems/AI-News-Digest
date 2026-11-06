@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50340088",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-    "seen_at": "2026-11-03T02:08:51.457660+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
     "seen_at": "2026-11-03T15:54:35.311864+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
     "seen_at": "2026-11-06T00:55:22.092630+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.06977",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.07542",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.06962",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+    "seen_at": "2026-11-06T15:43:49.042393+00:00"
   }
 ]
