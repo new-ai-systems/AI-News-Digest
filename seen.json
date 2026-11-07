@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/1026306/ber-ai-agents-q3-earnings-disintermediation",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://twitter.com/pierrecomputer/status/2117999036175188183",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50363461",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-    "seen_at": "2026-11-04T15:59:43.051954+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
     "seen_at": "2026-11-05T00:49:21.903256+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
     "seen_at": "2026-11-07T14:43:47.577508+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://hunch.net/?p=13764006",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "seen_at": "2026-11-07T23:33:13.491896+00:00"
   }
 ]
