@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1024978/bambu-h3c-color-mixing-toolchanger-3d-printer-trend",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50352757",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2610.41609",
-    "seen_at": "2026-11-03T15:54:35.311864+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "seen_at": "2026-11-04T00:32:10.878414+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
     "seen_at": "2026-11-06T15:43:49.042393+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "seen_at": "2026-11-07T00:02:04.534032+00:00"
   }
 ]
