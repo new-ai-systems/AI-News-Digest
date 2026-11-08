@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://openai.com/index/openai-to-acquire-pierre/",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.ricursive.com/ripple",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/research/provable-inference",
-    "seen_at": "2026-11-05T00:49:21.903256+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
     "seen_at": "2026-11-05T16:13:52.282505+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
     "seen_at": "2026-11-07T23:33:13.491896+00:00"
+  },
+  {
+    "link": "https://github.com/synchopate/llama-modchip",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://caleb.software/posts/claude-to-pi.html",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://linebender.org/blog/jit-bitmap-text/",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://github.com/dmunozv04/isponsorblocktv",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
+  },
+  {
+    "link": "https://github.com/graealex/WaveDudeNext",
+    "seen_at": "2026-11-08T14:49:49.859085+00:00"
   }
 ]
