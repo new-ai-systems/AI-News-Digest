@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-    "seen_at": "2026-11-06T00:55:22.092630+00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.06977",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.07542",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.06962",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
-    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-    "seen_at": "2026-11-06T15:43:49.042393+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
     "seen_at": "2026-11-07T00:02:04.534032+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://github.com/SafeScript/safescript",
     "seen_at": "2026-11-08T23:33:31.977538+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2610.14162",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+    "seen_at": "2026-11-09T18:25:45.143420+00:00"
   }
 ]
