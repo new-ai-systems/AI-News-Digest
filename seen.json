@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "seen_at": "2026-11-07T00:02:04.534032+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
     "seen_at": "2026-11-07T14:43:47.577508+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
     "seen_at": "2026-11-09T18:25:45.143420+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://github.com/thisisme6598/gemini_files/",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://research.meta.ai/blog/muse-ember",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "seen_at": "2026-11-10T02:38:03.712547+00:00"
   }
 ]
