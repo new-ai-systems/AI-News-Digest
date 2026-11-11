@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://hunch.net/?p=13764006",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "seen_at": "2026-11-07T23:33:13.491896+00:00"
-  },
-  {
     "link": "https://github.com/synchopate/llama-modchip",
     "seen_at": "2026-11-08T14:49:49.859085+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
     "seen_at": "2026-11-10T16:10:42.265185+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussio ns-into-plans-and-tasks/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "seen_at": "2026-11-11T00:30:51.094612+00:00"
   }
 ]
