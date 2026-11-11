@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://github.com/synchopate/llama-modchip",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://caleb.software/posts/claude-to-pi.html",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://linebender.org/blog/jit-bitmap-text/",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://github.com/dmunozv04/isponsorblocktv",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
-    "link": "https://github.com/graealex/WaveDudeNext",
-    "seen_at": "2026-11-08T14:49:49.859085+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
     "seen_at": "2026-11-08T23:33:31.977538+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
     "seen_at": "2026-11-11T00:30:51.094612+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://pietromiotti.com/latest/maya-site/?maya",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.12940",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.12941",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.13020",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.13042",
+    "seen_at": "2026-11-11T15:55:26.491243+00:00"
   }
 ]
