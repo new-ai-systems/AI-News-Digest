@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://duxlabs.dev/",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://ketchup3d.github.io/app/",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
-    "link": "https://github.com/SafeScript/safescript",
-    "seen_at": "2026-11-08T23:33:31.977538+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
     "seen_at": "2026-11-09T18:25:45.143420+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://arxiv.org/abs/2611.13042",
     "seen_at": "2026-11-11T15:55:26.491243+00:00"
+  },
+  {
+    "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
+  },
+  {
+    "link": "https://github.com/huawei-csl/MACaQ",
+    "seen_at": "2026-11-12T01:51:50.334130+00:00"
   }
 ]
