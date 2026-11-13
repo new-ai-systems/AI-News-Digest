@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://github.com/thisisme6598/gemini_files/",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://research.meta.ai/blog/muse-ember",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "seen_at": "2026-11-10T02:38:03.712547+00:00"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
     "seen_at": "2026-11-10T16:10:42.265185+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
     "seen_at": "2026-11-13T00:59:15.497557+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://myid.ie/business/eu-digital-wallet-tracker/",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
+  },
+  {
+    "link": "https://brave.com/blog/search-api-agentic-payments/",
+    "seen_at": "2026-11-13T15:57:32.048540+00:00"
   }
 ]
