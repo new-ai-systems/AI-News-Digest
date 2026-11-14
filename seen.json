@@ -238,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
     "seen_at": "2026-11-14T00:49:36.167042+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.14681",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.14769",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.15094",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.15315",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.15475",
+    "seen_at": "2026-11-14T14:50:15.712567+00:00"
   }
 ]
