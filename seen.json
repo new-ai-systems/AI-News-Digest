@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://pietromiotti.com/latest/maya-site/?maya",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.12940",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.12941",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.13020",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2611.13042",
-    "seen_at": "2026-11-11T15:55:26.491243+00:00"
-  },
-  {
     "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
     "seen_at": "2026-11-12T01:51:50.334130+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2611.15475",
     "seen_at": "2026-11-14T14:50:15.712567+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.crissyfield.de/research/lovable-en/",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "seen_at": "2026-11-14T23:47:45.282136+00:00"
   }
 ]
