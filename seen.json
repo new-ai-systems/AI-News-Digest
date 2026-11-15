@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
-    "link": "https://github.com/huawei-csl/MACaQ",
-    "seen_at": "2026-11-12T01:51:50.334130+00:00"
-  },
-  {
     "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
     "seen_at": "2026-11-12T16:38:27.446739+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
     "seen_at": "2026-11-14T23:47:45.282136+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://lucypero.com/lucynes.html",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://netbsd.org/~nia/disk-encrypt/",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "seen_at": "2026-11-15T15:25:57.828553+00:00"
   }
 ]
