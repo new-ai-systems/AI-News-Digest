@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-    "seen_at": "2026-11-14T00:49:36.167042+00:00"
-  },
-  {
     "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
     "seen_at": "2026-11-14T14:50:15.712567+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
     "seen_at": "2026-11-16T18:00:33.115881+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://news.ycombinator.com/item?id=50522776",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "seen_at": "2026-11-17T02:52:49.947044+00:00"
   }
 ]
