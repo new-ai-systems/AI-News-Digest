@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://lucypero.com/lucynes.html",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://netbsd.org/~nia/disk-encrypt/",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-    "seen_at": "2026-11-15T15:25:57.828553+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
     "seen_at": "2026-11-15T23:53:51.216281+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
     "seen_at": "2026-11-18T02:18:36.256480+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.21885",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://energy-based-reasoners.github.io/",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.22033",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.21978",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.22075",
+    "seen_at": "2026-11-18T16:59:40.469970+00:00"
   }
 ]
