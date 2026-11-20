@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://news.ycombinator.com/item?id=50522776",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-    "seen_at": "2026-11-17T02:52:49.947044+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
     "seen_at": "2026-11-17T17:26:29.708410+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://www.anthropic.com/research/claude-black-hole-physics",
     "seen_at": "2026-11-20T01:43:59.758283+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://alpo.ge/remark.pdf",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://signal.org/blog/protecting-your-privacy/",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://architectlabs.com/blog/frostbite",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://ffmpeg.org/download.html#release_9.1",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
+  },
+  {
+    "link": "https://www.postgresql.org/docs/release/19.0/",
+    "seen_at": "2026-11-20T16:46:19.751326+00:00"
   }
 ]
