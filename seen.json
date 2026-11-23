@@ -1,85 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "seen_at": "2026-11-20T01:43:59.758283+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://alpo.ge/remark.pdf",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://signal.org/blog/protecting-your-privacy/",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://architectlabs.com/blog/frostbite",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://ffmpeg.org/download.html#release_9.1",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
-    "link": "https://www.postgresql.org/docs/release/19.0/",
-    "seen_at": "2026-11-20T16:46:19.751326+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
     "seen_at": "2026-11-21T01:17:12.683497+00:00"
   },
@@ -278,5 +198,45 @@
   {
     "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
     "seen_at": "2026-11-23T00:42:33.085087+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://z.ai/blog/glm-5.4",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "seen_at": "2026-11-23T19:54:59.235482+00:00"
   }
 ]
