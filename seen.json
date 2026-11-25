@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://simonwillison.net/2026/Nov/21/muru/",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://github.com/gulivan/worker755",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://github.com/EL4CTEO/fast-anything",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-    "seen_at": "2026-11-22T15:59:31.913281+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
     "seen_at": "2026-11-23T00:42:33.085087+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
     "seen_at": "2026-11-25T03:28:11.056416+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "seen_at": "2026-11-25T18:28:54.968970+00:00"
   }
 ]
