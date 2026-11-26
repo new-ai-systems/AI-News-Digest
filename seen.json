@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://0rwx.com/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://pequalnp.com/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://openai.com/index/perplexity-and-intelligence/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
-    "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-    "seen_at": "2026-11-23T00:42:33.085087+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
     "seen_at": "2026-11-23T19:54:59.235482+00:00"
   },
@@ -238,5 +198,45 @@
   {
     "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
     "seen_at": "2026-11-25T18:28:54.968970+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://modaic.dev/blog/latency-doesnt-lie",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
+  },
+  {
+    "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+    "seen_at": "2026-11-26T02:43:49.399855+00:00"
   }
 ]
