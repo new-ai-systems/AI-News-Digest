@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://arxiv.org/abs/2602.20031",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
-    "link": "https://twitter.com/ylecun/status/2124550037912920090",
-    "seen_at": "2026-11-24T04:41:37.766660+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
     "seen_at": "2026-11-24T19:24:02.772494+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://github.com/rxliuli/sim-drop",
     "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://www.kimi.ai/news/kimi-for-science-program",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.33394",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://arxiv.org/abs/2611.33706",
+    "seen_at": "2026-11-27T17:54:09.440554+00:00"
   }
 ]
