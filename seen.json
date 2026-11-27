@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://z.ai/blog/glm-5.4",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-    "seen_at": "2026-11-23T19:54:59.235482+00:00"
-  },
-  {
     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "seen_at": "2026-11-24T04:41:37.766660+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2611.31424",
     "seen_at": "2026-11-26T18:11:30.403823+00:00"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://kendell.dev/blog/arkwrapper/",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://github.com/eisenzopf/rvoip",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://michidk.github.io/sidebyside/",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
+  },
+  {
+    "link": "https://github.com/rxliuli/sim-drop",
+    "seen_at": "2026-11-27T02:44:23.886420+00:00"
   }
 ]
