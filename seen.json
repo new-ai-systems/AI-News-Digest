@@ -1,45 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
-    "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-    "seen_at": "2026-11-24T19:24:02.772494+00:00"
-  },
-  {
     "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
     "seen_at": "2026-11-25T03:28:11.056416+00:00"
   },
@@ -278,5 +238,45 @@
   {
     "link": "https://arxiv.org/abs/2611.33706",
     "seen_at": "2026-11-27T17:54:09.440554+00:00"
+  },
+  {
+    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://github.com/convex/convex-backend-skill/issues/64",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://ssg.dev/passkey-blues/",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
+  },
+  {
+    "link": "https://tabernet.es/",
+    "seen_at": "2026-11-28T02:34:26.064563+00:00"
   }
 ]
